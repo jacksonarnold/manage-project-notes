@@ -1,0 +1,6 @@
+interface:
+  display_name: "Manage Project Notes"
+  short_description: "Plan and track flexible local project delivery"
+  default_prompt: "Use $manage-project-notes to initialize, discover, choose a delivery strategy, plan, or maintain local project context."
+policy:
+  allow_implicit_invocation: true
