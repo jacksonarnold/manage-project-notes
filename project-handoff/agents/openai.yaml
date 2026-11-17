@@ -1,6 +1,0 @@
-interface:
-  display_name: "Project Handoff"
-  short_description: "Record an explicit structured project handoff"
-  default_prompt: "Use $project-handoff to record this session's project state and next move."
-policy:
-  allow_implicit_invocation: false

@@ -1,6 +1,0 @@
-interface:
-  display_name: "Project Start"
-  short_description: "Load and activate the next project task"
-  default_prompt: "Use $project-start to load and begin the appropriate task or focus."
-policy:
-  allow_implicit_invocation: false

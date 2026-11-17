@@ -1,6 +1,0 @@
-interface:
-  display_name: "Project Discovery"
-  short_description: "Converge questions and delivery strategy"
-  default_prompt: "Use $project-discovery to converge this project's open questions, delivery strategy, and planning readiness."
-policy:
-  allow_implicit_invocation: false

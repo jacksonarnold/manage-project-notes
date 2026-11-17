@@ -1,6 +1,0 @@
-interface:
-  display_name: "Project Decision"
-  short_description: "Record and propagate a project decision"
-  default_prompt: "Use $project-decision to record this durable choice and assess its project impact."
-policy:
-  allow_implicit_invocation: false
